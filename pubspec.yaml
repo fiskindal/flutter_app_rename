@@ -1,6 +1,6 @@
 name: flutter_app_rename
 description: A package that makes it easy to set your flutter app launcher name. 
-version: 0.1.2+packagename
+version: 0.1.2
 maintainer: fiskindal
 homepage: https://github.com/fiskindal/flutter_app_rename
 
