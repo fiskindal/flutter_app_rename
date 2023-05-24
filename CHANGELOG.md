@@ -10,7 +10,7 @@
 * Change iOS app launcher name
 * Change Android app launcher name
 
-0.1.2+pakcagename
+0.1.2+packagename
 =====
 
 windows support
