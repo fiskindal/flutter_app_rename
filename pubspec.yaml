@@ -6,7 +6,7 @@ homepage: https://github.com/fiskindal/flutter_app_rename
 
 dependencies:
   yaml: ^3.1.0
-  xml: ^5.0.0
+  xml: ^6.3.0
   rename: ^2.1.1
 
 environment:
