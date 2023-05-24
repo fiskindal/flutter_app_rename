@@ -9,7 +9,7 @@ import "android.dart" as android;
 
 void run() {
   final context = Context(
-    yamlKeyName: "flutter_app_name",
+    yamlKeyName: "flutter_app_rename",
     pubspecPath: "pubspec.yaml",
     infoPlistPath: "ios/Runner/Info.plist",
     androidManifestPath: "android/app/src/main/AndroidManifest.xml",
