@@ -2,9 +2,6 @@ import "package:xml/xml.dart";
 import 'common.dart' as common;
 
 import "context.dart";
-import 'dart:io';
-
-//  windows/CMakeLists.txt klasöründeki dosyadaki  proje adı değişecek
 
 String fetchCurrentBundleName(Context context, String manifestFileData) {
   final parsed = XmlDocument.parse(manifestFileData);
@@ -24,7 +21,6 @@ String fetchCurrentBundleName(Context context, String manifestFileData) {
   return label[0];
 }
 
-//  windows/CMakeLists.txt klasöründeki dosyadaki  proje adı değişecek
 String setNewBundleName(Context context, String manifestFileData,
     String currentBundleName, String desiredBundleName) {
   final parsed = XmlDocument.parse(manifestFileData);

@@ -3,7 +3,6 @@ import 'common.dart' as common;
 
 import "context.dart";
 import 'dart:convert';
-// web için uygulama adı değişecek
 
 String fetchCurrentBundleName(Context context, String manifestFileData) {
   final parsed = XmlDocument.parse(manifestFileData);
