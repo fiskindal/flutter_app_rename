@@ -1,7 +1,6 @@
-# Flutter App Name 
+# Flutter App Rename 
 
-A command-line tool that makes it trivial to set the launcher name for iOS and Android Flutter apps. Works with Flutter 2.
-
+flutter allows you to change the name of the application
 # Usage
 
 1. Set your dev dependencies and your app's name and id (aka bundleId or applicationId, previously: package name)
@@ -12,7 +11,7 @@ dev_dependencies:
 
 flutter_app_name:
   name: "My Cool App"
-  id: "it.in4matic.flutter_app_name"
+  id: "com.example.flutter_app_name"
 ```
 
 2. Run flutter_app_name in your project's directory
