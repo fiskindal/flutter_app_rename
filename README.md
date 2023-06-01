@@ -7,14 +7,14 @@ flutter allows you to change the name of the application
 
 ```
 dev_dependencies:
-  flutter_app_name: ^0.1.2
+  flutter_app_rename: ^0.1.2
 
-flutter_app_name:
+flutter_app_rename:
   name: "My Cool App"
   id: "com.example.flutter_app_name"
 ```
 
-2. Run flutter_app_name in your project's directory
+2. Run flutter_app_rename in your project's directory
 
 ```
 flutter pub get
