@@ -12,7 +12,7 @@ dev_dependencies:
 
 flutter_app_name:
   name: "My Cool App"
-  id: "it.in4matic.flutter_app_name"
+  id: "com.ffols.flutter_app_name"
 ```
 
 2. Run flutter_app_name in your project's directory

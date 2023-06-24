@@ -15,3 +15,7 @@
 
 windows support
 web support added
+
+0.1.3
+
+macos support added
