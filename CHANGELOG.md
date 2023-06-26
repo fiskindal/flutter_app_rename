@@ -19,3 +19,7 @@ web support added
 0.1.3
 
 macos support added
+
+0.1.4
+
+README.md fixed
