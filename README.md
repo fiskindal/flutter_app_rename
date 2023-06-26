@@ -11,11 +11,7 @@ dev_dependencies:
 
 flutter_app_rename:
   name: "My Cool App"
-<<<<<<< HEAD
-  id: "com.ffols.flutter_app_name"
-=======
   id: "com.example.flutter_app_name"
->>>>>>> c16d7d7b47ce5b2fbd63d5f77dc32c91aacec037
 ```
 
 2. Run flutter_app_rename in your project's directory
